@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HItlrsmp.aternos.me",
+    "ip": "HItlrsmp.aternos.me:11105",
     "port": 11105,
     "version": "",
     "try-creative": false
